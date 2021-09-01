@@ -1,0 +1,1 @@
+const n=(n,a)=>n?(a||(0===n?(a="red",n="Tidak"):1===n?(a="green",n="Iya"):a="gray"),`\n    <span\n      class="px-2 py-1 text-xs text-${a}-700 bg-${a}-300 rounded-full dark:bg-${a}-600 dark:text-${a}-100"\n    >\n      ${n}\n    </span>\n  `):"";export{n as t};

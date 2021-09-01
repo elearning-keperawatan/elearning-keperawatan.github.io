@@ -1,0 +1,1 @@
+import{_ as e}from"./table.e37b66c2.js";import{r as l,c as s,u as o,o as r}from"./index.46ef241a.js";import"./vendor.7b91652a.js";const a={expose:[],setup(a){const t=l({columns:[{label:"Nama Supplier",field:"Name"}]});return(l,a)=>(r(),s(e,{"api-url":"/logistic-supplier",columns:o(t).columns,filter:o(t).filter},null,8,["columns","filter"]))}};export default a;

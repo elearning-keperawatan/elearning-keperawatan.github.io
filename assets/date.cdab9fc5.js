@@ -1,0 +1,1 @@
+const r=r=>{if(r){if("0001-01-01T00:00:00Z"===r||"0001-01-01"===r)return"-";{const t=r.split("T")[0],i=r.split("T")[1].split("+")[0];return t.split("-").reverse().join("-")+" "+i}}},t=r=>{if(r){if("0001-01-01T00:00:00Z"===r||"0001-01-01"===r)return"-";return r.split("T")[0].split("-").reverse().join("-")}};export{r as a,t as f};

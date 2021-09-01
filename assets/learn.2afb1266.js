@@ -1,0 +1,1 @@
+import{o as e,c as r}from"./index.46ef241a.js";import"./vendor.7b91652a.js";const n={},o={src:"/module-elearning/1.pdf",width:"100%",height:"375"};n.render=function(n,t,d,i,a,s){return e(),r("embed",o)};export default n;
